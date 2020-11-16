@@ -1,4 +1,3 @@
 My New Office file
 ## This is not assuch any office file, its just a temporary file with junk contents for the testing purposes.
-### This is the formmatted file with not too much contents.
-# Thanks for reading the contents of this file.
+
