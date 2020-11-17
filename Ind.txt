@@ -1,2 +1,3 @@
 git log --oneline --graph --decorate --all
-Grerat Command 
+Grerat Command Has been added to this file 
+and changes need to push on git repo. 
